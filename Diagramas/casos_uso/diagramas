@@ -1,0 +1,19 @@
+── casos_uso/
+│   │   ├── diagrama_general/
+│   │   │   ├── diagrama_casos_uso_general.png
+│   │   │   └── diagrama_casos_uso_general.drawio
+│   │   │
+│   │   ├── CU01_iniciar_sesion/
+│   │   │   └── especificacion_CU01.pdf
+│   │   │
+│   │   ├── CU02_gestionar_usuarios/
+│   │   │   └── especificacion_CU02.pdf
+│   │   │
+│   │   ├── CU03_registrar_informacion/
+│   │   │   └── especificacion_CU03.pdf
+│   │   │
+│   │   ├── CU04_consultar_informacion/
+│   │   │   └── especificacion_CU04.pdf
+│   │   │
+│   │   └── CU05_generar_reporte/
+│   │       └── especificacion_CU05.pdf
