@@ -1,0 +1,6 @@
+└── casos_uso_detallados/
+    ├── CU01_iniciar_sesion.pdf
+    ├── CU02_registrar_cliente.pdf
+    ├── CU03_registrar_pedido.pdf
+    ├── CU04_consultar_informacion.pdf
+    └── CU05_generar_reporte.pdf
