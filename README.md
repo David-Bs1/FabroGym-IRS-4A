@@ -1,5 +1,10 @@
-# FabroGym
+# Avance2-1B-EQUIPO-AMMOV
+Proyecto Fin de Curso: Entrega 1B – Documento ERS/SRS Parcial.
 
-Work in progress
-______________________
-Pongansen hacer algo gente tiren paro *@Fabro* auxilio Adminitración
+EQUIPO AMMOV
+
+    ALVIA VILLEGAS ERICK ADALBERTO
+    MERA ARIAS ERICK JHAIR
+    MORA DUARTE ALEX JOSE
+    PONCE RIVERA MERY HELENMEY
+    VACA ROMERO DAVID OCTAVIO
